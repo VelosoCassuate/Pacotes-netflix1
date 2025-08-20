@@ -9,7 +9,9 @@ header > a{
     color: white;
 }
 main,html{
-    background-image:linear-gradient(to right, rgb(196, 2, 2), black);
+    background-image:linear-gradient(to right, rgb(196, 2, 2), black);   
+}
 
-    
+section > div{
+    background-color: white;
 }
